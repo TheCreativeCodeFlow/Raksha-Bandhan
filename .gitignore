@@ -1,0 +1,17 @@
+# Node & Next.js
+node_modules/
+.next/
+out/
+.vercel/
+
+# Env & logs
+.env*
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+node_modules/ 
+.next/ 
