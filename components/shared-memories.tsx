@@ -10,7 +10,7 @@ const memories = [
     id: 1,
     title: "My Guardian Angel",
     content: "From the day I was born, you've been my protector. Remember how you used to check under my bed for monsters? You made me feel safe in a world that seemed so big and scary.",
-    image: "/Personal1.jpg",
+    image: "/personal1.jpg",
     emotion: "💙"
   },
   {
